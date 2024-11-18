@@ -82,10 +82,9 @@ footer{
     text-align: center;
 }
 
-.carousel-control-next .carousel-control-prev{
-    margin-top: 175px;
-    position: relative;
-    z-index: 2;
+.miClase{
+    margin-top: 90px;
+
 }
 /*Celular*/
 @media(max-width:768px){
